@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "hqa-code"
+name = "H Q A"
 version = "0.1.0"
-description = "A tool to level up codebases to H1 quality"
+description = "A tool to level up codebases to High quality"
 authors = ["aonexyz <exeaone@gmail.com>"]
 license = "MIT"
 readme = "README.md"
@@ -17,4 +17,4 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
-hqa-code = "hqa_code:main"
+HQA = "HQA:main"
