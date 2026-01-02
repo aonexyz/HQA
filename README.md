@@ -1,7 +1,6 @@
 # H Q A
 
 H Q A is a command line tool to level up codebases to `HQA` (high quality using AI) (local by default). It processes files in a specified directory, creates backups, and applies AI-based improvements to enhance code quality.
-## screenshot
 
 ## Installation
 Recommended: Install using `pipx`:
